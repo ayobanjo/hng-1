@@ -15,7 +15,7 @@ function App() {
       <div className="link-section">
         <div className="link-buttons">
           <button>
-            <a href="https://mobile.twitter.com/Man_like_Fola" id="twitter">
+            <a href="https://twitter.com/AyobanjoFunsho" id="twitter">
               Twitter Link
             </a>
           </button>
@@ -31,7 +31,7 @@ function App() {
           </button>
           <button>
             <a
-              href="https://books.zuri.team/python-for-beginners?ref_id=<MuizAfolarinOlaore>"
+              href="https://books.zuri.team/python-for-beginners?ref_id=<JesudarasimiFunsho>"
               id="book__python"
             >
               Python Books
@@ -49,7 +49,7 @@ function App() {
           </button>
           <button>
             <a href="https://books.zuri.team/design-rules" id="slack">
-              Muiz Afolarin Olaore
+              Jesudarasimi Funsho
             </a>
           </button>
         </div>
