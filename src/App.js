@@ -1,17 +1,10 @@
 import "./App.css";
+import Header from "./components/header";
 
 function App() {
   return (
     <div className="app">
-      <header className="profile-avatar">
-        <img id="profile__img" src="profile__img.svg" alt="profile" />
-        <img
-          id="share_btn"
-          src="Avatar share button.svg"
-          alt="share button icon"
-        />
-        <h2>Annette Black</h2>
-      </header>
+      <Header />
       <div className="link-section">
         <div className="link-buttons">
           <button>
